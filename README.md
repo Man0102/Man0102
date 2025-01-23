@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on getting a Cloud certificate
+- 🔭 I’m currently working on getting an AWS Cloud certificate
 - 🌱 I’m currently learning more tips and tricks to better myself on technical interviews
 - 👯 I’m looking to collaborate on new exciting projects
 - 🤔 I’m looking for help with finding a job
